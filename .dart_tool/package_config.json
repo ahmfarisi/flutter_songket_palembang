@@ -164,10 +164,10 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-11-06T05:39:09.942694Z",
+  "generated": "2024-11-06T05:43:36.375045Z",
   "generator": "pub",
-  "generatorVersion": "3.5.3",
+  "generatorVersion": "3.5.4",
   "flutterRoot": "file:///Users/ahmfarisi/flutter",
-  "flutterVersion": "3.24.3",
+  "flutterVersion": "3.24.4",
   "pubCache": "file:///Users/ahmfarisi/.pub-cache"
 }
